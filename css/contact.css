@@ -1,0 +1,35 @@
+/**** Contact page ****/
+.test {
+    background-image: url("../img/contact.jpg");
+    background-size: cover;
+    height:100vh;
+    /*opacity: 0.2;*/
+    /*background-color:#649287;*/
+}
+
+.test h1 {
+    color: #fff;
+    text-align: center
+}
+
+.test h2 {
+    color: white;
+    text-align: center
+}
+
+.test p{
+    color: #fff;
+    text-align: center
+    
+}
+
+.test .container a {
+    color: #fff;
+    text-align: center;
+}
+
+.test .container ul{
+    color:white;
+    text-align: center;
+}
+
