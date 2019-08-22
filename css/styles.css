@@ -1,12 +1,12 @@
 /**** index page css ****/
 .jumbotron {
-    background-image: url("../img/fabio-oyXis2kALVg-unsplash.jpg");
+    background-image: url("../img/contact1.jpg");
     background-size: cover;
     /*background-color:#649287;*/
 }
 
 .jumbotron h1{
-    color: limegreen;
+    color: white;
     
 }
 
